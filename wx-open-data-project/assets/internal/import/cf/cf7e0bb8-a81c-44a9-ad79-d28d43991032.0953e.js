@@ -1,0 +1,1 @@
+module.exports = [ 1, [ "c0BAyVxX9JzZy8EjFrc9DU" ], [ "_effectAsset" ], [ [ "cc.Material", [ "_name", "_techniqueData" ], 1 ] ], [ [ 0, 0, 1, 3 ] ], [ [ 0, "builtin-clear-stencil", {} ] ], 0, 0, [ 0 ], [ 0 ], [ 0 ] ];

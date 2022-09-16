@@ -1,0 +1,1 @@
+module.exports = [ 1, [ "02delMVqdBD70a/HSD99FK", "2afAA24LNP4YmYiaVLiivs" ], [ "mainTexture", "_effectAsset" ], [ [ "cc.Material", [ "_name", "_techniqueData" ], 2, 11 ] ], [ [ 0, 0, 1, 2 ] ], [ [ 0, "builtin-3d-trail", [ {}, "0", 11, [ {}, "props", 11, [ {}, "mainTexture", 6, 0 ] ] ] ] ], 0, 0, [ 0, 0 ], [ 0, 1 ], [ 0, 1 ] ];
